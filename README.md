@@ -1,6 +1,7 @@
 # Simple Auto Type
 
 Simple auto type is a code snippet for typing automatically in c++ programs. Use as you want. If you use this code you take all responsibility for it.
+
 NOTE: ONLY ALPHABETS AND NUMBERS WORK. SLASHES(/) AND OTHERS WILL NOT WORK.
 
 ## Installation & Usage
